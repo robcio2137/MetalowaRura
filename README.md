@@ -1,6 +1,6 @@
 # MetalowaRura
 ## Program do puszczania dźwięku spadającej metalowej rury w losowym momencie.
-### Działa tylko na Windows 7 do 11
+### Działa tylko na Windows 7 do 11 oraz wymaga .NET Framework 4.8
 
 
 Po otworzeniu programu co 1-5 minut zostanie odtworzony dźwięk spadającej metalowej rury.
