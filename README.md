@@ -3,7 +3,7 @@
 ### Działa tylko na Windows 7 do 11
 
 
-Po otworzeniu programu co 1-6 minut zostanie odtworzony dźwięk spadającej metalowej rury.
+Po otworzeniu programu co 1-5 minut zostanie odtworzony dźwięk spadającej metalowej rury.
 Jest on ukryty jako proces w tle pod nazwą **"Host środowiska Intel"** oraz jako **ukryta ikona z logiem Intel**.
 Proces można zamknąć przy użyciu Menedżera zadań lub klikając prawym przyciskiem myszy na ukrytą ikonę oraz klikając "Wyjdź".
 
